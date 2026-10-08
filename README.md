@@ -6,6 +6,8 @@
 
 > **Technical review:** [Architecture evidence and limitations](AUDIT.md) — perception, decision and physical action.
 
+**[Voir la démonstration vidéo SYM sur le portfolio](https://christopher-crahay.vercel.app/work/sym)** — prototype physique, réponse vocale et animation de la mâchoire. Cette vidéo ne valide pas à elle seule tous les chemins matériels et logiciels décrits.
+
 ## Exemples de code commentés
 
 [Consulter les exemples techniques](CODE_EXAMPLES.md) — extraits **illustratifs**, volontairement simplifiés, distincts du code privé. Ils montrent des frontières d'architecture et leurs limites, sans prétendre constituer une preuve de fonctionnement.
@@ -158,7 +160,7 @@ L'intérêt du projet est précisément situé **aux interfaces entre ces brique
 
 ## Démonstration
 
-Une vidéo du prototype sera ajoutée à cette vitrine après préparation de la version destinée au portfolio.
+La [vidéo de SYM est disponible sur le portfolio](https://christopher-crahay.vercel.app/work/sym), accompagnée d'une description du fonctionnement, des protocoles et des limites actuelles.
 
 ## Limites de cette vitrine
 
