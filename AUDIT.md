@@ -4,7 +4,9 @@
 
 **Réponse vérifiable dans la présentation publique :** non. La chaîne décrite sépare acquisition audio/vision, traitement IA et sorties vocales ou physiques. Les interfaces entre composants et leurs défaillances possibles sont des points d'inspection.
 
-**Limite :** aucun journal de latence, protocole embarqué ni essai matériel reproductible n'est publié ici. Il s'agit d'un principe architectural documenté, pas d'une validation expérimentale.
+**Élément observable :** [démonstration vidéo du robot](https://christopher-crahay.vercel.app/work/sym) avec réponse vocale et animation de la mâchoire.
+
+**Limite :** aucun journal de latence ni essai matériel reproductible n'est publié ici. La vidéo ne valide pas tous les comportements du matériel, du protocole ou des chemins logiciels.
 
 **Trace d'audit :** `01 / PERCEPTION / frontière identifiée`
 
