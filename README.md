@@ -10,6 +10,14 @@
 
 **[TikTok du projet SYM : @symrobot](https://www.tiktok.com/@symrobot)** — vidéos publiques du projet. Ces publications donnent un aperçu du prototype, sans constituer des tests techniques reproductibles.
 
+## Présentation extérieure — Sona Production / Pontarlier
+
+**[Podcast « SYM le robot » réalisé par Sona Production](https://www.youtube.com/watch?v=6XJzIGO50cQ)** — une production tierce consacrée au prototype et à son créateur, abordant sa construction, son intégration de l'IA et la démarche du projet.
+
+**[Extrait YouTube du podcast](https://www.youtube.com/shorts/YNLMIW-qoSU)** · [Annonce de l'épisode par Sona Production sur Instagram](https://www.instagram.com/reel/DZzlpvvurLk/) (avec renvoi vers @symrobot).
+
+**Portée de cette source :** ce reportage extérieur documente la présentation publique du projet, distincte des démonstrations réalisées pour cette vitrine. Il ne certifie ni le code privé, ni les protocoles embarqués, ni la sûreté ou les performances du robot.
+
 ## Exemples de code commentés
 
 [Consulter les exemples techniques](CODE_EXAMPLES.md) — extraits **illustratifs**, volontairement simplifiés, distincts du code privé. Ils montrent des frontières d'architecture et leurs limites, sans prétendre constituer une preuve de fonctionnement.
