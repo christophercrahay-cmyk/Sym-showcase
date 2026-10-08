@@ -4,6 +4,8 @@
 
 **Statut : vitrine technique.** Le dépôt de développement de SYM reste privé. Cette vitrine présente les objectifs, les briques du système et la démarche d'intégration sans publier les mécanismes internes, configurations, prompts ou documents de travail.
 
+> **Technical review:** [Architecture evidence and limitations](AUDIT.md) — perception, decision and physical action.
+
 ## L'idée
 
 Un assistant IA classique reste essentiellement enfermé dans une interface logicielle. SYM explore le problème inverse : **comment relier une intelligence logicielle au monde physique ?**
