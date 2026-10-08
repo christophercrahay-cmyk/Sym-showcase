@@ -6,6 +6,11 @@
 
 > **Technical review:** [Architecture evidence and limitations](AUDIT.md) — perception, decision and physical action.
 
+## Exemples de code commentés
+
+[Consulter les exemples techniques](CODE_EXAMPLES.md) — extraits **illustratifs**, volontairement simplifiés, distincts du code privé. Ils montrent des frontières d'architecture et leurs limites, sans prétendre constituer une preuve de fonctionnement.
+
+
 ## L'idée
 
 Un assistant IA classique reste essentiellement enfermé dans une interface logicielle. SYM explore le problème inverse : **comment relier une intelligence logicielle au monde physique ?**
