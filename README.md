@@ -8,6 +8,8 @@
 
 **[Voir la démonstration vidéo SYM sur le portfolio](https://christopher-crahay.vercel.app/work/sym)** — prototype physique, réponse vocale et animation de la mâchoire. Cette vidéo ne valide pas à elle seule tous les chemins matériels et logiciels décrits.
 
+**[TikTok du projet SYM : @symrobot](https://www.tiktok.com/@symrobot)** — vidéos publiques du projet. Ces publications donnent un aperçu du prototype, sans constituer des tests techniques reproductibles.
+
 ## Exemples de code commentés
 
 [Consulter les exemples techniques](CODE_EXAMPLES.md) — extraits **illustratifs**, volontairement simplifiés, distincts du code privé. Ils montrent des frontières d'architecture et leurs limites, sans prétendre constituer une preuve de fonctionnement.
