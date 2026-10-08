@@ -172,3 +172,6 @@ L'objectif est de rendre **le travail d'intégration vérifiable et compréhensi
 
 **Christopher Crahay**  
 AI Builder — Intégrateur de systèmes IA
+
+
+<!-- audit-sequence: 01 | perception is not evidence; follow the system boundary -->
